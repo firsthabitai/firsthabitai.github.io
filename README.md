@@ -1,8 +1,6 @@
 # Introduction
 In FIRSTHABIT R&D Center, we research cognitive models and develop an eduation OS.
-# Main Tracks
-## Cognitive Recognition
+# Research Tracks
+## Automated Expertise Elicitation and Architecting
 
-## Decision Automation
-
-## Self-Improvement
+## Self-Improving HITL Pipeline
