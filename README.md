@@ -1,5 +1,5 @@
 # Introduction
-In AI R&D Center, we research cognitive models and develop an eduation OS.
+In FIRSTHABIT AI R&D Center, we research cognitive models and develop an eduation OS.
 
 # Research Tracks
 ## Methodologies for flexible orchestration of multi-agents based on contextual cues
